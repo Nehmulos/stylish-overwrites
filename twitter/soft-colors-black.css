@@ -5,6 +5,7 @@
         background-color: rgb(40, 41, 40);
     }
     
+    .dashboard .stats,
     .content-header .header-inner,
     .content-no-header .no-header-inner,
     .stream-item, .unfocusable-stream-item,
