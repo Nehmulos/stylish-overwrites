@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("twitter.com") {
+    .global-nav-inner {
+        background-color: rgb(40, 41, 40);
+    }
+    
+    .content-header .header-inner,
+    .content-no-header .no-header-inner,
+    .stream-item, .unfocusable-stream-item,
+    .module .flex-module {
+        background-color: rgb(250, 250, 250);
+    }
+}
