@@ -1,0 +1,11 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("twitter.com") {
+    .js-media-container {
+        display:none;
+    }
+    
+    .opened-tweet .js-media-container {
+        display: inherit;
+    }
+}
